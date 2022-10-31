@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/YuliaYurievna/react-hw-01-components/static/css/main.7acaea2f.css",
-    "main.js": "/YuliaYurievna/react-hw-01-components/static/js/main.07d3183d.js",
-    "index.html": "/YuliaYurievna/react-hw-01-components/index.html",
-    "main.7acaea2f.css.map": "/YuliaYurievna/react-hw-01-components/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/YuliaYurievna/react-hw-01-components/static/js/main.07d3183d.js.map"
+    "main.css": "/react-hw-01-components/static/css/main.7acaea2f.css",
+    "main.js": "/react-hw-01-components/static/js/main.07d3183d.js",
+    "index.html": "/react-hw-01-components/index.html",
+    "main.7acaea2f.css.map": "/react-hw-01-components/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/react-hw-01-components/static/js/main.07d3183d.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
