@@ -1,0 +1,64 @@
+.statistics {
+  width: 300px;
+  margin-top: 50px;
+  border-radius: 4px;
+  overflow: hidden;
+  background-color: #fff;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
+
+.title {
+  margin: 20px 0;
+  text-align: center;
+  font-size: 20px;
+  font-weight: 600;
+  text-transform: uppercase;
+  color: rgb(133, 133, 133);
+}
+
+.statList {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.item {
+  width: calc(100% / 4);
+  list-style-type: none;
+  text-align: center;
+  line-height: 1.7;
+  color: #fff;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+  
+}
+
+.label {
+  display: block;
+  padding-top: 10px;
+  font-size: 13px;
+}
+
+.percentage {
+  display: block;
+  padding-bottom: 10px;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.docx {
+  background-color: #4DC5F8;
+}
+
+.pdf {
+  background-color: #A53BF5;
+}
+
+.mp3 {
+  background-color: #E34D66;
+}
+
+.psd {
+  background-color: #20B8C5;
+}
+
+
