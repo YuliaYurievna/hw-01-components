@@ -1,0 +1,9 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 50px;
+  font-size: 40px;
+  color: #010101;
+}
