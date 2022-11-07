@@ -1,7 +1,7 @@
 import PropTypes from 'prop-types';
 import css from './FriendItem.module.css';
 
-export default function FriendItem({ id, avatar, name, isOnline }) {
+export default function FriendItem({ avatar, name, isOnline }) {
   return (
     <li className={css.item}>
       <span className={`${css.status} ${css[isOnline]}`}></span>
